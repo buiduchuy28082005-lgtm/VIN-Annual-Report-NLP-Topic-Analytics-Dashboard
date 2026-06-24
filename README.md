@@ -25,6 +25,6 @@ topic_dashboard/
     manual_topic_map.json
 ```
 ## How to Run
-cd topic_dashboard
-pip install -r requirements.txt
-streamlit run app.py
+- cd topic_dashboard
+- pip install -r requirements.txt
+- streamlit run app.py
